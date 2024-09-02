@@ -316,8 +316,6 @@ class FileHandler:
 
 if __name__ == "__main__":
     main()
-"""
-
 def main():
 
     # Create an instance of FileHandler and process files
@@ -341,3 +339,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+"""
