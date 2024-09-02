@@ -1,0 +1,95 @@
+{
+    "EuSektoren": {
+        "Nis2Annex1": {
+            "Sectors": {
+                "Energie": {
+                    "Subsectors": {
+                        "Elektrizitaet": {
+                            "Entities": [
+                                "Elektrizitaetsunternehmen",
+                                "Verteilernetzbetreiber",
+                                "Aggregierung Laststeuerung",
+                                "Energiespeicherung",
+                                "Erzeuger",
+                                "Ladepunkte",
+                                "Strommarktbetreiber",
+                                "Uebertragungsnetzbetreiber"
+                            ]
+                        },
+                        "Erdgas": {
+                            "Entities": [
+                                "Erdgasunternehmen",
+                                "Fernleitungsnetzbetreiber",
+                                "LNG-Anlage",
+                                "Raffination und Aufbereitung",
+                                "Speicheranlage",
+                                "Versorgungsunternehmen",
+                                "Verteilernetzbetreiber"
+                            ]
+                        },
+                        "Erdoel": {
+                            "Entities": [
+                                "Erdoellager",
+                                "Fernleitungen",
+                                "Produktion, Raffination und Aufbereitung",
+                                "Zentrale Bevorratungsstellen"
+                            ]
+                        },
+                        "Fernwaerme und -kaelte": {
+                            "Entities": [
+                                "Fernwaerme und -kaelte"
+                            ]
+                        },
+                        "Wasserstoff": {
+                            "Entities": [
+                                "Erzeugung, Speicherung und Fernleitung"
+                            ]
+                        }
+                    }
+                },
+                "Transport": {
+                    "Subsectors": {
+                        "Luftverkehr": {
+                            "Entities": [
+                                "Flughafenleitungsorgane",
+                                "Flugverkehrskontrolldienste",
+                                "Luftfahrtunternehmen",
+                                "Flughaefen"
+                            ]
+                        },
+                        "Schifffahrt": {
+                            "Entities": [
+                                "Hafenanlagen",
+                                "Leitungsorgane von Haefen",
+                                "Passagier- und Frachtbefoerderung",
+                                "Schiffsverkehrsdienste"
+                            ]
+                        },
+                        "Strassenverkehr": {
+                            "Entities": [
+                                "Intelligente Verkehrssysteme",
+                                "Strassenverkehrsbehoerden"
+                            ]
+                        },
+                        "Schienenverkehr": {
+                            "Entities": [
+                                "Eisenbahnunternehmen",
+                                "Infrastrukturbetreiber",
+                                "Serviceeinrichtung"
+                            ]
+                        }
+                    }
+                },
+                "Bankwesen": {
+                    "Subsectors": {
+                        " ": {
+                            "Entities": [
+                                "Kreditinstitute"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

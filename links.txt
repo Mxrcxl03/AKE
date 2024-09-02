@@ -1,0 +1,51 @@
+Entity;Quelle/URL;(URL2);(URL3);...
+
+ENERGIE:
+
+Elektrizitaetsunternehmen;https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Energie/Unternehmen_Institutionen/HandelundVertrieb/LieferantenAnzeige/StromVersorgerListe.pdf?__blob=publicationFile&v=8
+Verteilernetzbetreiber;ChatGPT
+Uebertragungsnetzbetreiber;https://www.marktstammdatenregister.de/MaStR/Akteur/Marktakteur/IndexOeffentlich
+Erzeuger;ChatGPT
+Strommarktbetreiber;https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/HandelundVertrieb/NEMO/start.html
+Aggregierung Laststeuerung;ChatGPT
+Energiespeicherung;ChatGPT
+Ladepunkte;ChatGPT
+
+Fernwaerme- und kaelte;ChatGPT
+
+Fernleitungen;ChatGPT
+Produktion, Raffination und Aufbereitung;ChatGPT
+Erdoellager;ChatGPT
+Zentrale Bevorratungsstellen;ChatGPT
+
+Versorgungsunternehmen;ChatGPT
+Verteilernetzbetreiber;[4]
+Fernleitungsnetzbetreiber;ChatGPT
+Speicheranlage;ChatGPT
+LNG-Anlage;ChatGPT
+Erdgasunternehmen;https://www.marktstammdatenregister.de/MaStR/Akteur/Marktakteur/IndexOeffentlich
+Raffination und Aufbereitung;ChatGPT
+
+Erzeugung, Speicherung und Fernleitung;ChatGPT
+
+TRANSPORT:
+
+Luftfahrtunternehmen;https://www.lba.de/SharedDocs/Downloads/DE/Formulare/B1/B11_Genehmigungen/Merkblaetter_Info/B1_LstLU.pdf?__blob=publicationFile&v=109
+Flughafenleitungsorgane;[29]
+Flughaefen;https://de.wikipedia.org/wiki/Liste_der_Verkehrsflugh%C3%A4fen_in_Deutschland
+Flugverkehrskontrolldienste;ChatGPT;https://de.wikipedia.org/wiki/Flugsicherung
+
+Infrastrukturbetreiber;ChatGPT;https://www.eba.bund.de/SharedDocs/Downloads/DE/Eisenbahnunternehmen/EIU/eiu_oeff.html
+Eisenbahnunternehmen;https://www.eba.bund.de/DE/Themen/Eisenbahnunternehmen/eisenbahnunternehmen_inhalt.html?nn=1525420#doc1527822bodyText2
+Serviceeinrichtung;ChatGPT
+
+Passagier- und Frachtbefoerderung;https://www.maritimes-cluster.de/branchenbuch/;https://www.reederverband.de/de/der-verband/unsere-mitglieder-im-ueberblick?letter=all
+Leitungsorgane von Haefen;ChatGPT
+Hafenanlagen;ChatGPT
+Schiffsverkehrsdienste;ChatGPT
+
+Strassenverkehrsbehoerden;ChatGPT
+Intelligente Verkehrssysteme;ChatGPT
+
+GESUNDHEIT:
+...
